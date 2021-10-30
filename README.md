@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashkan Mohammadi
 - 👀 I’m interested in AI & ML
-- 🌱 I’m currently learning React & TypeScript
+- 🌱 I’m currently learning Vue & TypeScript & graphql
 - 💞️ I’m looking to collaborate on CPython's source code
 - 📫 mohammadiashkan1384@gmail.com
 
