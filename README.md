@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ashkan Mohammadi
 - 👀 I’m interested in AI & ML
-- 🌱 I’m currently learning Vue & GraphQL & Rust
-- 💞️ I’m looking to collaborate on CPython's source code
+- 💞️ I’m looking to develop my Questify Community project
 - 📫 mohammadiashkan1384@gmail.com
 
 <!---
