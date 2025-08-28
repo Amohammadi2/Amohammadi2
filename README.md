@@ -1,5 +1,5 @@
 🎓 Statistics student @ University of Tehran  
-🔍 Aspiring Data Scientist  
+🔍 Interested in data science  
 💻 Fullstack developer (Django | React)  
 🖤 Lover of dark, minimal themes
 
