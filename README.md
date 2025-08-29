@@ -1,12 +1,6 @@
 🎓 Statistics student @ University of Tehran  
-🔍 Interested in data science  
-💻 Fullstack developer (Django | React)  
-🖤 Lover of dark, minimal themes
-
-Notable projects:  
-- [Questify Community](https://github.com/Amohammadi2/questify-community)  
-- [Django SPA Blog](https://github.com/Amohammadi2/django-SPA-blog)  
-- [Particles Effect](https://github.com/Amohammadi2/particles-effect)
+🔍 Interested in data science & AI
+💻 Fullstack developer (Django | NextJS(React))
 
 Find me:  
 - Telegram: [@MohammadiAshkan](https://t.me/MohammadiAshkan)  
